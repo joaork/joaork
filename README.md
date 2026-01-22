@@ -1,4 +1,4 @@
-# 👨‍💻 [João Lima]
+# João Lima
 
 **`Estudante de Engenharia de Computação | Desenvolvedor`**
 
