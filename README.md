@@ -58,11 +58,11 @@ Busco aplicar meu aprendizado acadêmico e prático para criar soluções inovad
 />
 <img 
     align="left" 
-    alt="Lua" 
-    title="Lua"
+    alt="PHP" 
+    title="PHP"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
 <img 
     align="left" 
@@ -87,6 +87,22 @@ Busco aplicar meu aprendizado acadêmico e prático para criar soluções inovad
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Lua" 
+    title="Lua"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="VBA" 
+    title="VBA"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" 
 />
 <img 
     align="left" 
