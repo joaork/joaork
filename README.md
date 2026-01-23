@@ -4,7 +4,7 @@
 
 Olá! Sou estudante de Engenharia de Computação na **UTFPR** (Universidade Tecnológica Federal do Paraná).
 
-Atualmente, trabalho como **Auxiliar Técnico e Desenvolvedor** na CH Tech Soluções em T.I., onde atuo com suporte, hardware e desenvolvimento. Tenho experiência prévia na criação de automações (Macros VBA) para otimização de processos e no desenvolvimento de sites para diversos nichos.
+Atualmente, trabalho como **Auxiliar Técnico e Desenvolvedor** na CH Tech Soluções em T.I., onde atuo com suporte, hardware e desenvolvimento. Tenho experiência na criação de automações (Macros VBA) para otimização de processos e no desenvolvimento de sites e programas para diversos nichos.
 
 Busco aplicar meu aprendizado acadêmico e prático para criar soluções inovadoras.
 
