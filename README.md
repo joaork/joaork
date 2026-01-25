@@ -30,7 +30,7 @@ Busco aplicar meu aprendizado acadêmico e prático para criar soluções inovad
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens
 
 <img 
     align="left" 
