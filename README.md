@@ -6,7 +6,6 @@ Olá! Sou estudante de Engenharia de Computação na **UTFPR** (Universidade Tec
 
 Atualmente, trabalho como **Auxiliar Técnico e Desenvolvedor** na CH Tech Soluções em T.I., onde atuo com suporte, hardware e desenvolvimento. Tenho experiência na criação de automações (Macros VBA) para otimização de processos e no desenvolvimento de sites e programas para diversos nichos.
 
-Busco aplicar meu aprendizado acadêmico e prático para criar soluções inovadoras.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/jl-profile" target="_blank">
