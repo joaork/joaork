@@ -12,11 +12,11 @@ Sou estudante de Engenharia de Computação na **UTFPR** (Universidade Tecnológ
 ### 📫 Como me encontrar
 
 <p align="left">
-    <a href="mailto:joaovictorscr1@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-    </a>
     <a href="https://www.linkedin.com/in/jl-profile" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="mailto:joaovictorscr1@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
 </p>
 
