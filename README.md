@@ -1,4 +1,4 @@
-# Olá, eu sou o João Lima!
+# <p align= "center" >Olá, eu sou o João Lima!</p>
 
 **`Graduando em Engenharia de Computação | Desenvolvedor`**
 
