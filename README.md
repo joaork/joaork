@@ -1,14 +1,12 @@
 # Olá, eu sou o João Lima!
 
-**`Estudante de Engenharia de Computação | Desenvolvedor`**
+**`Graduando em Engenharia de Computação | Desenvolvedor`**
 
-Sou estudante de Engenharia de Computação na **UTFPR** (Universidade Tecnológica Federal do Paraná) e apaixonado por resolver problemas através da tecnologia, transitando desde a infraestrutura de hardware até o desenvolvimento de software.
-
-Atualmente, trabalho como **Auxiliar Técnico e Desenvolvedor** na CH Tech Soluções em T.I. Tenho experiência na criação de automações (Macros VBA) para otimização de processos e no desenvolvimento de sites e sistemas sob medida para diversos nichos.
+Sou estudante de Engenharia de Computação na **UTFPR** (Universidade Tecnológica Federal do Paraná), transitando desde a infraestrutura de hardware até o desenvolvimento de software.
 
 ### 👨‍💻 Sobre mim
-* 🔭 Desenvolvendo ativamente sistemas web completos (como dashboards de monitoramento de hardware e sistemas de gestão de pedidos/estoque).
-* 🌱 Aprofundando constantemente meus conhecimentos em **Python, PHP e JavaScript**, além de arquitetura de computadores.
+* 🔭 Desenvolvendo ativamente sistemas web completos.
+* 🌱 Aprofundando constantemente meus conhecimentos em **Python, PHP e JavaScript**.
 * ⚙️ Gosto de unir desenvolvimento de software e conhecimento de hardware para criar soluções eficientes e práticas.
 
 ### 📫 Como me encontrar
