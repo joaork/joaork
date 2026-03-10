@@ -1,4 +1,4 @@
-# Olá, eu sou o João Lima! 👋
+# Olá, eu sou o João Lima!
 
 **`Estudante de Engenharia de Computação | Desenvolvedor`**
 
@@ -14,7 +14,7 @@ Atualmente, trabalho como **Auxiliar Técnico e Desenvolvedor** na CH Tech Solu�
 ### 📫 Como me encontrar
 
 <p align="left">
-    <a href="mailto:SEU_EMAIL_AQUI@email.com" target="_blank">
+    <a href="mailto:joaovictorscr1@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
     <a href="https://www.linkedin.com/in/jl-profile" target="_blank">
@@ -43,10 +43,3 @@ Atualmente, trabalho como **Auxiliar Técnico e Desenvolvedor** na CH Tech Solu�
 <br/><br/>
 
 ---
-
-### 📊 Estatísticas
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do GitHub" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas" height="150"/>
-</p>
