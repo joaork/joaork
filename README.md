@@ -1,4 +1,4 @@
-# <p align= "right" >| João Lima</p>
+# <p align= "left" >👨‍💻 | João Lima</p>
 
 **`Graduando em Engenharia de Computação | Desenvolvedor`**
 
