@@ -2,7 +2,7 @@
 
 **`Graduando em Engenharia de Computação | Desenvolvedor`**
 
-Sou estudante de Engenharia de Computação na **UTFPR** (Universidade Tecnológica Federal do Paraná), transitando desde a infraestrutura de hardware até o desenvolvimento de software.
+Sou estudante de Engenharia de Computação na **UTFPR** (Universidade Tecnológica Federal do Paraná), transitando desde a infraestrutura de hardware até o desenvolvimento de software e web.
 
 ### 👨‍💻 Sobre mim
 * 🔭 Desenvolvendo ativamente sistemas web completos.
