@@ -9,8 +9,6 @@ Sou estudante de Engenharia de Computação na **UTFPR** (Universidade Tecnológ
 * 🌱 Aprofundando constantemente meus conhecimentos em **Python, PHP e JavaScript**.
 * ⚙️ Gosto de unir desenvolvimento de software e conhecimento de hardware para criar soluções eficientes e práticas.
 
-### 📫 Como me encontrar
-
 <p align="left">
     <a href="https://www.linkedin.com/in/jl-profile" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
