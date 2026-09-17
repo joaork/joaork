@@ -11,11 +11,9 @@ Desenvolvendo soluções que conectam **software, inteligência artificial, auto
 <a href="https://www.linkedin.com/in/jl-profile">
   <img src="https://img.shields.io/badge/LinkedIn-João_Lima-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-&nbsp;&nbsp;&nbsp;
 <a href="mailto:joaovictorscr1@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
-&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/joaork">
   <img src="https://img.shields.io/badge/GitHub-joaork-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
@@ -23,10 +21,8 @@ Desenvolvendo soluções que conectam **software, inteligência artificial, auto
 <br><br>
 
 <img src="https://img.shields.io/badge/Engenharia_de_Computação-UTFPR-FFC107?style=flat-square" alt="UTFPR">
-&nbsp;
 <img src="https://img.shields.io/badge/Desenvolvimento-Full--Stack-2F81F7?style=flat-square" alt="Full Stack">
-&nbsp;
-<img src="https://img.shields.io/badge/Automação_&_IA-n8n_•_OpenAI-8B5CF6?style=flat-square" alt="Automação e IA">
+<img src="https://img.shields.io/badge/Automação_e_IA-n8n_•_OpenAI-8B5CF6?style=flat-square" alt="Automação e IA">
 
 </div>
 
@@ -55,6 +51,7 @@ Também possuo conhecimentos em **hardware, ESP32, Arduino e circuitos digitais*
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ## 🤖 Lia
@@ -69,11 +66,8 @@ Integra diferentes plataformas para realizar atendimento, coleta de informaçõe
 
 <p>
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n">
-&nbsp;
 <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI">
-&nbsp;
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-&nbsp;
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp">
 </p>
 
@@ -104,18 +98,18 @@ Portal web desenvolvido com **React e TypeScript**, composto por múltiplos mód
 
 <p>
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-&nbsp;
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" alt="JavaScript">
 </p>
 
 <br>
 
 <div align="center">
+
 <a href="https://jonask.com.br">
   <img src="https://img.shields.io/badge/ACESSAR_PROJETO-jonask.com.br-238636?style=for-the-badge" alt="Acessar Portal Jonask">
 </a>
+
 </div>
 
 <br>
@@ -128,21 +122,22 @@ Plataforma comercial responsiva desenvolvida utilizando tecnologias modernas par
 
 <p>
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-&nbsp;
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-&nbsp;
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
 </p>
 
 <br>
 
 <div align="center">
+
 <a href="https://usesequencial.com.br">
   <img src="https://img.shields.io/badge/ACESSAR_PROJETO-usesequencial.com.br-238636?style=for-the-badge" alt="Acessar Sequencial">
 </a>
+
 </div>
 
 </td>
+
 </tr>
 </table>
 
@@ -154,13 +149,9 @@ Plataforma comercial responsiva desenvolvida utilizando tecnologias modernas par
 
 <p>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-&nbsp;
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript">
-&nbsp;
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-&nbsp;
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 </p>
 
@@ -172,11 +163,8 @@ Plataforma comercial responsiva desenvolvida utilizando tecnologias modernas par
 
 <p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-&nbsp;
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-&nbsp;
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-&nbsp;
 <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge" alt="REST API">
 </p>
 
@@ -188,11 +176,8 @@ Plataforma comercial responsiva desenvolvida utilizando tecnologias modernas par
 
 <p>
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
-&nbsp;
 <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API">
-&nbsp;
 <img src="https://img.shields.io/badge/Agentes_de_IA-6E40C9?style=for-the-badge" alt="Agentes de IA">
-&nbsp;
 <img src="https://img.shields.io/badge/Webhooks-1F6FEB?style=for-the-badge" alt="Webhooks">
 </p>
 
@@ -204,13 +189,9 @@ Plataforma comercial responsiva desenvolvida utilizando tecnologias modernas par
 
 <p>
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-&nbsp;
 <img src="https://img.shields.io/badge/Evolution_API-111827?style=for-the-badge" alt="Evolution API">
-&nbsp;
 <img src="https://img.shields.io/badge/Agendor_CRM-2563EB?style=for-the-badge" alt="Agendor CRM">
-&nbsp;
 <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge" alt="REST API">
-&nbsp;
 <img src="https://img.shields.io/badge/Webhooks-1F6FEB?style=for-the-badge" alt="Webhooks">
 </p>
 
@@ -222,9 +203,7 @@ Plataforma comercial responsiva desenvolvida utilizando tecnologias modernas par
 
 <p>
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
-&nbsp;
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-&nbsp;
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
 </p>
 
@@ -236,15 +215,10 @@ Plataforma comercial responsiva desenvolvida utilizando tecnologias modernas par
 
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-&nbsp;
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-&nbsp;
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000" alt="Linux">
-&nbsp;
 <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=white" alt="Windows">
-&nbsp;
 <img src="https://img.shields.io/badge/VPS-111827?style=for-the-badge&logo=linux&logoColor=white" alt="VPS">
-&nbsp;
 <img src="https://img.shields.io/badge/Deploy-238636?style=for-the-badge" alt="Deploy">
 </p>
 
@@ -256,15 +230,10 @@ Plataforma comercial responsiva desenvolvida utilizando tecnologias modernas par
 
 <p>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=000000" alt="C">
-&nbsp;
 <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
-&nbsp;
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32">
-&nbsp;
 <img src="https://img.shields.io/badge/Hardware-374151?style=for-the-badge" alt="Hardware">
-&nbsp;
 <img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft&logoColor=white" alt="VBA">
-&nbsp;
 <img src="https://img.shields.io/badge/Excel_Avançado-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel Avançado">
 </p>
 
@@ -294,13 +263,9 @@ Plataforma comercial responsiva desenvolvida utilizando tecnologias modernas par
 
 <p>
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n">
-&nbsp;
 <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI">
-&nbsp;
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-&nbsp;
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp">
-&nbsp;
 <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square" alt="REST API">
 </p>
 
@@ -325,13 +290,9 @@ Plataforma comercial responsiva desenvolvida utilizando tecnologias modernas par
 
 <p>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
-&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" alt="JavaScript">
-&nbsp;
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
-&nbsp;
 <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress">
-&nbsp;
 <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white" alt="WooCommerce">
 </p>
 
@@ -352,7 +313,6 @@ Plataforma comercial responsiva desenvolvida utilizando tecnologias modernas par
 
 <p>
 <img src="https://img.shields.io/badge/VBA-217346?style=flat-square&logo=microsoft&logoColor=white" alt="VBA">
-&nbsp;
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel">
 </p>
 
@@ -387,9 +347,6 @@ Plataforma comercial responsiva desenvolvida utilizando tecnologias modernas par
 <a href="https://github.com/joaork?tab=repositories">
   <img src="https://img.shields.io/badge/VER_REPOSITÓRIOS-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver Repositórios">
 </a>
-
-&nbsp;&nbsp;&nbsp;
-
 <a href="https://github.com/joaork">
   <img src="https://img.shields.io/badge/ACESSAR_PERFIL-@joaork-2F81F7?style=for-the-badge&logo=github&logoColor=white" alt="Acessar GitHub">
 </a>
@@ -421,9 +378,6 @@ Projetos, tecnologia, desenvolvimento e oportunidades profissionais.
 <a href="mailto:joaovictorscr1@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-ENTRAR_EM_CONTATO-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
-
-&nbsp;&nbsp;&nbsp;
-
 <a href="https://github.com/joaork">
   <img src="https://img.shields.io/badge/GitHub-VER_REPOSITÓRIOS-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
