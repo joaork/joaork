@@ -24,7 +24,7 @@ Desenvolvendo soluções que conectam **software, inteligência artificial, auto
 
 ## 👋 Sobre mim
 
-Sou estudante de **Engenharia de Computação na UTFPR** e **Desenvolvedor Full-Stack**, com experiência prática no desenvolvimento de aplicações web, automações, integrações entre sistemas e bancos de dados.
+Graduando em **Engenharia de Computação na UTFPR** e **Desenvolvedor Full-Stack**, com experiência prática no desenvolvimento de aplicações web, automações, integrações entre sistemas e bancos de dados.
 
 Atuo em projetos reais envolvendo **Inteligência Artificial, automação de processos, APIs REST, WhatsApp, CRM, bancos de dados e implantação de aplicações web**.
 
