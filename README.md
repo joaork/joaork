@@ -8,21 +8,15 @@ Desenvolvendo soluções que conectam **software, inteligência artificial, auto
 
 <br>
 
-<a href="https://www.linkedin.com/in/jl-profile">
-  <img src="https://img.shields.io/badge/LinkedIn-João_Lima-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="mailto:joaovictorscr1@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>
-<a href="https://github.com/joaork">
-  <img src="https://img.shields.io/badge/GitHub-joaork-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
+<a href="https://www.linkedin.com/in/jl-profile"><img src="https://img.shields.io/badge/LinkedIn-Joao_Lima-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:joaovictorscr1@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="https://github.com/joaork"><img src="https://img.shields.io/badge/GitHub-joaork-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Engenharia_de_Computação-UTFPR-FFC107?style=flat-square" alt="UTFPR">
+<img src="https://img.shields.io/badge/Engenharia_de_Computacao-UTFPR-FFC107?style=flat-square" alt="UTFPR">
 <img src="https://img.shields.io/badge/Desenvolvimento-Full--Stack-2F81F7?style=flat-square" alt="Full Stack">
-<img src="https://img.shields.io/badge/Automação_e_IA-n8n_•_OpenAI-8B5CF6?style=flat-square" alt="Automação e IA">
+<img src="https://img.shields.io/badge/Automacao_e_IA-n8n_+_OpenAI-8B5CF6?style=flat-square" alt="Automacao e IA">
 
 </div>
 
@@ -106,9 +100,7 @@ Portal web desenvolvido com **React e TypeScript**, composto por múltiplos mód
 
 <div align="center">
 
-<a href="https://jonask.com.br">
-  <img src="https://img.shields.io/badge/ACESSAR_PROJETO-jonask.com.br-238636?style=for-the-badge" alt="Acessar Portal Jonask">
-</a>
+<a href="https://jonask.com.br"><img src="https://img.shields.io/badge/ACESSAR_PROJETO-jonask.com.br-238636?style=for-the-badge" alt="Acessar Portal Jonask"></a>
 
 </div>
 
@@ -130,9 +122,7 @@ Plataforma comercial responsiva desenvolvida utilizando tecnologias modernas par
 
 <div align="center">
 
-<a href="https://usesequencial.com.br">
-  <img src="https://img.shields.io/badge/ACESSAR_PROJETO-usesequencial.com.br-238636?style=for-the-badge" alt="Acessar Sequencial">
-</a>
+<a href="https://usesequencial.com.br"><img src="https://img.shields.io/badge/ACESSAR_PROJETO-usesequencial.com.br-238636?style=for-the-badge" alt="Acessar Sequencial"></a>
 
 </div>
 
@@ -233,8 +223,8 @@ Plataforma comercial responsiva desenvolvida utilizando tecnologias modernas par
 <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32">
 <img src="https://img.shields.io/badge/Hardware-374151?style=for-the-badge" alt="Hardware">
-<img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft&logoColor=white" alt="VBA">
-<img src="https://img.shields.io/badge/Excel_Avançado-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel Avançado">
+<img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge" alt="VBA">
+<img src="https://img.shields.io/badge/Excel_Avancado-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel Avançado">
 </p>
 
 `C` • `Arduino` • `ESP32` • `Hardware` • `Circuitos Digitais` • `VBA` • `Excel Avançado`
@@ -312,7 +302,7 @@ Plataforma comercial responsiva desenvolvida utilizando tecnologias modernas par
 ### Tecnologias utilizadas
 
 <p>
-<img src="https://img.shields.io/badge/VBA-217346?style=flat-square&logo=microsoft&logoColor=white" alt="VBA">
+<img src="https://img.shields.io/badge/VBA-217346?style=flat-square" alt="VBA">
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel">
 </p>
 
@@ -326,7 +316,7 @@ Plataforma comercial responsiva desenvolvida utilizando tecnologias modernas par
 
 **Universidade Tecnológica Federal do Paraná — UTFPR**
 
-<img src="https://img.shields.io/badge/UTFPR-Engenharia_de_Computação-FFC107?style=for-the-badge" alt="Engenharia de Computação UTFPR">
+<img src="https://img.shields.io/badge/UTFPR-Engenharia_de_Computacao-FFC107?style=for-the-badge" alt="Engenharia de Computação UTFPR">
 
 <br><br>
 
@@ -344,12 +334,8 @@ Plataforma comercial responsiva desenvolvida utilizando tecnologias modernas par
 
 <br>
 
-<a href="https://github.com/joaork?tab=repositories">
-  <img src="https://img.shields.io/badge/VER_REPOSITÓRIOS-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver Repositórios">
-</a>
-<a href="https://github.com/joaork">
-  <img src="https://img.shields.io/badge/ACESSAR_PERFIL-@joaork-2F81F7?style=for-the-badge&logo=github&logoColor=white" alt="Acessar GitHub">
-</a>
+<a href="https://github.com/joaork?tab=repositories"><img src="https://img.shields.io/badge/VER_REPOSITORIOS-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver Repositórios"></a>
+<a href="https://github.com/joaork"><img src="https://img.shields.io/badge/ACESSAR_PERFIL-joaork-2F81F7?style=for-the-badge&logo=github&logoColor=white" alt="Acessar GitHub"></a>
 
 <br><br>
 
@@ -369,18 +355,12 @@ Projetos, tecnologia, desenvolvimento e oportunidades profissionais.
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/jl-profile">
-  <img src="https://img.shields.io/badge/LinkedIn-PERFIL_PROFISSIONAL-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+<a href="https://www.linkedin.com/in/jl-profile"><img src="https://img.shields.io/badge/LinkedIn-PERFIL_PROFISSIONAL-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 <br><br>
 
-<a href="mailto:joaovictorscr1@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-ENTRAR_EM_CONTATO-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>
-<a href="https://github.com/joaork">
-  <img src="https://img.shields.io/badge/GitHub-VER_REPOSITÓRIOS-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
+<a href="mailto:joaovictorscr1@gmail.com"><img src="https://img.shields.io/badge/Gmail-ENTRAR_EM_CONTATO-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="https://github.com/joaork"><img src="https://img.shields.io/badge/GitHub-VER_REPOSITORIOS-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 
 <br><br><br>
 
