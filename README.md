@@ -11,11 +11,11 @@ Desenvolvendo soluções que conectam **software, inteligência artificial, auto
 <a href="https://www.linkedin.com/in/jl-profile">
   <img src="https://img.shields.io/badge/LinkedIn-João_Lima-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-&nbsp;&nbsp;&nbsp;
+
 <a href="mailto:joaovictorscr1@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
-&nbsp;&nbsp;&nbsp;
+
 <a href="https://github.com/joaork">
   <img src="https://img.shields.io/badge/GitHub-joaork-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
