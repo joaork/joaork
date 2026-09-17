@@ -1,7 +1,5 @@
 # <p align= "left" >👨‍💻 | João Lima</p>
 
-**`Graduando em Engenharia de Computação | Desenvolvedor`**
-
 Graduando em Engenharia de Computação na **UTFPR** (Universidade Tecnológica Federal do Paraná), transitando desde a infraestrutura de hardware até o desenvolvimento de software e web.
 
 ### Sobre mim
