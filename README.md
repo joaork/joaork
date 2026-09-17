@@ -4,10 +4,9 @@
 
 Graduando em Engenharia de Computação na **UTFPR** (Universidade Tecnológica Federal do Paraná), transitando desde a infraestrutura de hardware até o desenvolvimento de software e web.
 
-### 👨‍💻 Sobre mim
-* 🔭 Desenvolvendo ativamente sistemas web completos.
-* 🌱 Aprofundando constantemente meus conhecimentos em **Python, PHP e JavaScript**.
-* ⚙️ Gosto de unir desenvolvimento de software e conhecimento de hardware para criar soluções eficientes e práticas.
+### Sobre mim
+* Desenvolvendo ativamente sistemas web completos.
+* Gosto de unir desenvolvimento de software e conhecimento de hardware para criar soluções eficientes e práticas.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/jl-profile" target="_blank">
