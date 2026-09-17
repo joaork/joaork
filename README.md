@@ -1,7 +1,7 @@
-<h1 align="center">👨‍💻 João Lima</h1>
+<h1 align="center">João Lima</h1>
 
 <h3 align="center">
-  Engenharia de Computação • Full-Stack • Automação & IA • Integrações
+  Engenharia de Computação - Full-Stack - Automação & IA - Integrações
 </h3>
 
 <p align="center">
