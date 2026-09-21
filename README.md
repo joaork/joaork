@@ -339,7 +339,6 @@ Plataforma comercial responsiva desenvolvida utilizando tecnologias modernas par
 
 <br><br>
 
-`Full-Stack` • `Automação` • `IA` • `APIs` • `Integrações` • `Hardware`
 
 </div>
 
@@ -365,8 +364,6 @@ Projetos, tecnologia, desenvolvimento e oportunidades profissionais.
 <br><br><br>
 
 ---
-
-### `Software` • `Automação` • `IA` • `Integrações` • `Hardware`
 
 **Engenharia de Computação @ UTFPR**
 
