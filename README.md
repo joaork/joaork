@@ -365,6 +365,4 @@ Projetos, tecnologia, desenvolvimento e oportunidades profissionais.
 
 ---
 
-**Engenharia de Computação @ UTFPR**
-
 </div>
