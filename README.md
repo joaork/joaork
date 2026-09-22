@@ -1,17 +1,10 @@
 <div align="center">
 
-<img src="./assets/banner-jl.png" alt="João Lima — Full-Stack Developer, Automação, IA e Integrações" width="100%">
-
 <br>
 
 <img src="./assets/logo-jl-pixel.gif" alt="JL" width="84">
 
 <br>
-
-### Full-Stack Developer • Automação, IA e Integrações • Engenharia de Computação UTFPR
-
-Construo soluções que conectam **software, automação, inteligência artificial e sistemas** para resolver problemas reais.
-
 <br>
 
 <a href="https://www.linkedin.com/in/jl-profile"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
