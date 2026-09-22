@@ -180,28 +180,9 @@ Plataforma web comercial responsiva construída com **React e TypeScript**, com 
 **Universidade Tecnológica Federal do Paraná — UTFPR**  
 `2024/2 — 2029/2`
 
-<img src="https://img.shields.io/badge/UTFPR-ENGENHARIA_DE_COMPUTAÇÃO-000000?style=for-the-badge&logo=academia&logoColor=white" alt="Engenharia de Computação — UTFPR">
+<img src="https://img.shields.io/badge/UTFPR-ENGENHARIA_DE_COMPUTAÇÃO-000000?style=for-the-badge&logoColor=white" alt="Engenharia de Computação — UTFPR">
 
 </div>
 
 ---
-
-## 07 — Vamos nos conectar?
-
-<div align="center">
-
-Tecnologia fica mais interessante quando boas ideias encontram pessoas dispostas a construir.
-
-Se quiser conversar sobre **desenvolvimento, automação, IA, integrações ou projetos**, estes são os melhores caminhos:
-
-<br>
-
-<a href="https://www.linkedin.com/in/jl-profile"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:joaovictorscr1@gmail.com"><img src="https://img.shields.io/badge/E--MAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
-<a href="https://github.com/joaork"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-
-<br><br>
-
-<sub>Software • Automação • Inteligência Artificial • Integrações • Engenharia</sub>
-
 </div>
