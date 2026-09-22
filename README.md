@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner-jl-github.png" alt="Banner João Lima" width="100%" />
+<img width="5016" height="1254" alt="Banner João Lima" src="https://github.com/user-attachments/assets/40a54baf-8f35-46b8-906f-8974f5420207" />
 
 <br><br>
 
