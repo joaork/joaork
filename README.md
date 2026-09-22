@@ -127,12 +127,6 @@ Plataforma web comercial responsiva construída com **React e TypeScript**, com 
 
 <br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaork&theme=github_dark&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&border_color=303030&icon_color=FFFFFF&chart_color=FFFFFF&hide_logo=true" alt="Estatísticas do GitHub" width="49%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaork&theme=github_dark&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&border_color=303030&icon_color=FFFFFF&chart_color=FFFFFF" alt="Linguagens por repositório" width="49%">
-
-<br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joaork&theme=github_dark&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&border_color=303030&icon_color=FFFFFF&chart_color=FFFFFF" alt="Linguagens mais utilizadas em commits" width="49%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joaork&theme=github_dark&utcOffset=-3&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&border_color=303030&icon_color=FFFFFF&chart_color=FFFFFF" alt="Horários mais produtivos no GitHub" width="49%">
-
 </div>
 
 ---
