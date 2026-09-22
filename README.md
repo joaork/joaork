@@ -1,4 +1,8 @@
 <div align="center">
+
+<img width="2508" height="2508" alt="JL" src="https://github.com/user-attachments/assets/33cbb66a-3034-4d1d-bb4f-92c4f346972f" />
+
+  
 <br>
 
 <a href="https://www.linkedin.com/in/jl-profile"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
