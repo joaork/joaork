@@ -1,10 +1,7 @@
 <div align="center">
 
 <img width="150" height="150" alt="JL" src="https://github.com/user-attachments/assets/33cbb66a-3034-4d1d-bb4f-92c4f346972f" />
-<img width="1920" height="1080" alt="JL" src="https://github.com/user-attachments/assets/9bd29f16-7f3a-4dfc-b48f-a1f83a406d56" />
 
-
-  
 <br>
 
 <a href="https://www.linkedin.com/in/jl-profile"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -30,6 +27,8 @@ Hoje, minhas principais frentes são:
 - **PostgreSQL, MySQL e modelagem de dados**
 - **Deploy, Linux, VPS e suporte à infraestrutura**
 - **ESP32, Arduino e hardware** como extensão da minha formação em Engenharia de Computação
+
+<img width="1920" height="1080" alt="JL" src="https://github.com/user-attachments/assets/9bd29f16-7f3a-4dfc-b48f-a1f83a406d56" />
 
 ---
 
