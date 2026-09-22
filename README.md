@@ -180,7 +180,7 @@ Plataforma web comercial responsiva construída com **React e TypeScript**, com 
 ### Bacharelado em Engenharia de Computação
 
 **Universidade Tecnológica Federal do Paraná — UTFPR**  
-`2024/2 — 2029/2`
+`2024 — 2029`
 
 <img src="https://img.shields.io/badge/UTFPR-ENGENHARIA_DE_COMPUTAÇÃO-000000?style=for-the-badge&logoColor=white" alt="Engenharia de Computação — UTFPR">
 
