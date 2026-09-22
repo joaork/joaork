@@ -8,9 +8,9 @@
 
 <br>
 
-Full-Stack Developer • Automação, IA e Integrações • Engenharia de Computação @ UTFPR
+### Full-Stack Developer • Automação, IA e Integrações • Engenharia de Computação @ UTFPR
 
-Construo soluções que conectam software, automação, inteligência artificial e sistemas para resolver problemas reais.
+Construo soluções que conectam **software, automação, inteligência artificial e sistemas** para resolver problemas reais.
 
 <br>
 
@@ -20,33 +20,31 @@ Construo soluções que conectam software, automação, inteligência artificial
 
 </div>
 
-01 — Sobre mim
+---
 
-Sou graduando em Engenharia de Computação na UTFPR e atuo como Desenvolvedor Full-Stack, trabalhando com aplicações web, automações, integrações, APIs e bancos de dados.
+## 01 — Sobre mim
 
-Gosto especialmente de projetos em que diferentes áreas precisam conversar entre si: software + IA + processos + infraestrutura. Meu foco é transformar necessidades reais em soluções organizadas, confiáveis e que façam sentido para quem vai utilizá-las no dia a dia.
+Sou graduando em **Engenharia de Computação na UTFPR** e atuo como **Desenvolvedor Full-Stack**, trabalhando com aplicações web, automações, integrações, APIs e bancos de dados.
+
+Gosto especialmente de projetos em que diferentes áreas precisam conversar entre si: **software + IA + processos + infraestrutura**. Meu foco é transformar necessidades reais em soluções organizadas, confiáveis e que façam sentido para quem vai utilizá-las no dia a dia.
 
 Hoje, minhas principais frentes são:
 
-Desenvolvimento Full-Stack de aplicações e plataformas web
+- **Desenvolvimento Full-Stack** de aplicações e plataformas web
+- **Automação de processos** e construção de workflows
+- **Agentes de IA** e integrações com modelos de linguagem
+- **APIs REST, Webhooks e integração entre sistemas**
+- **PostgreSQL, MySQL e modelagem de dados**
+- **Deploy, Linux, VPS e suporte à infraestrutura**
+- **ESP32, Arduino e hardware** como extensão da minha formação em Engenharia de Computação
 
-Automação de processos e construção de workflows
+---
 
-Agentes de IA e integrações com modelos de linguagem
-
-APIs REST, Webhooks e integração entre sistemas
-
-PostgreSQL, MySQL e modelagem de dados
-
-Deploy, Linux, VPS e suporte à infraestrutura
-
-ESP32, Arduino e hardware como extensão da minha formação em Engenharia de Computação
-
-02 — Stack
+## 02 — Stack
 
 <div align="center">
 
-Front-end
+### Front-end
 
 <img src="https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react&logoColor=white" alt="React">
 <img src="https://img.shields.io/badge/TYPESCRIPT-000000?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
@@ -54,7 +52,7 @@ Front-end
 <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
 <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 
-Back-end & APIs
+### Back-end & APIs
 
 <img src="https://img.shields.io/badge/NODE.JS-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
 <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
@@ -62,14 +60,14 @@ Back-end & APIs
 <img src="https://img.shields.io/badge/REST_APIS-000000?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs">
 <img src="https://img.shields.io/badge/WEBHOOKS-000000?style=for-the-badge&logo=webhook&logoColor=white" alt="Webhooks">
 
-Automação & IA
+### Automação & IA
 
 <img src="https://img.shields.io/badge/N8N-000000?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
 <img src="https://img.shields.io/badge/OPENAI_API-000000?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API">
 <img src="https://img.shields.io/badge/AGENTES_DE_IA-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Agentes de IA">
 <img src="https://img.shields.io/badge/AUTOMAÇÃO-000000?style=for-the-badge&logo=githubactions&logoColor=white" alt="Automação">
 
-Dados & Integrações
+### Dados & Integrações
 
 <img src="https://img.shields.io/badge/POSTGRESQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
 <img src="https://img.shields.io/badge/MYSQL-000000?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
@@ -77,7 +75,7 @@ Dados & Integrações
 <img src="https://img.shields.io/badge/WHATSAPP-000000?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
 <img src="https://img.shields.io/badge/AGENDOR_CRM-000000?style=for-the-badge&logo=hubspot&logoColor=white" alt="Agendor CRM">
 
-Infraestrutura & Ferramentas
+### Infraestrutura & Ferramentas
 
 <img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
@@ -86,7 +84,7 @@ Infraestrutura & Ferramentas
 <img src="https://img.shields.io/badge/VPS-000000?style=for-the-badge&logo=serverfault&logoColor=white" alt="VPS">
 <img src="https://img.shields.io/badge/DEPLOY-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Deploy">
 
-Hardware & Engenharia
+### Hardware & Engenharia
 
 <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" alt="C">
 <img src="https://img.shields.io/badge/ARDUINO-000000?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
@@ -96,11 +94,13 @@ Hardware & Engenharia
 
 </div>
 
-03 — Projetos em destaque
+---
 
-Lia — Agente de Atendimento com IA
+## 03 — Projetos em destaque
 
-Agente automatizado desenvolvido para atendimento comercial e automação de processos, integrando n8n, WhatsApp, Evolution API, OpenAI, Agendor CRM, PostgreSQL, APIs REST e Webhooks.
+### Lia — Agente de Atendimento com IA
+
+Agente automatizado desenvolvido para atendimento comercial e automação de processos, integrando **n8n, WhatsApp, Evolution API, OpenAI, Agendor CRM, PostgreSQL, APIs REST e Webhooks**.
 
 O projeto envolve gerenciamento de contexto, coleta e validação de informações, tomada de decisões, tratamento de erros, logs e transferência estruturada para atendimento humano.
 
@@ -116,21 +116,23 @@ O projeto envolve gerenciamento de contexto, coleta e validação de informaçõ
 
 <br>
 
-Portal Jonask
+### Portal Jonask
 
-Portal web desenvolvido com React e TypeScript, organizado em múltiplos módulos, ferramentas, conteúdo digital, área premium e interfaces responsivas.
+Portal web desenvolvido com **React e TypeScript**, organizado em múltiplos módulos, ferramentas, conteúdo digital, área premium e interfaces responsivas.
 
 <a href="https://jonask.com.br"><img src="https://img.shields.io/badge/ACESSAR_PROJETO-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Acessar Portal Jonask"></a>
 
 <br>
 
-Sequencial
+### Sequencial
 
-Plataforma web comercial responsiva construída com React e TypeScript, com foco em experiência visual, organização do conteúdo e adaptação para diferentes dispositivos.
+Plataforma web comercial responsiva construída com **React e TypeScript**, com foco em experiência visual, organização do conteúdo e adaptação para diferentes dispositivos.
 
 <a href="https://usesequencial.com.br"><img src="https://img.shields.io/badge/ACESSAR_PROJETO-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Acessar Sequencial"></a>
 
-04 — GitHub Stats
+---
+
+## 04 — GitHub Stats
 
 <div align="center">
 
@@ -143,79 +145,67 @@ Plataforma web comercial responsiva construída com React e TypeScript, com foco
 
 </div>
 
-05 — Experiência profissional
+---
 
-Uniformizado LTDA
+## 05 — Experiência profissional
 
-Desenvolvimento • Automação • Inteligência Artificial
-Jun/2026 — Atual
+### Uniformizado LTDA
+**Desenvolvimento • Automação • Inteligência Artificial**  
+`Jun/2026 — Atual`
 
-Desenvolvimento e manutenção de aplicações, integrações e soluções internas
+- Desenvolvimento e manutenção de aplicações, integrações e soluções internas
+- Desenvolvimento e evolução da **Lia**, agente de atendimento automatizado em n8n
+- Criação de workflows para atendimento, coleta e validação de informações
+- Integração entre **WhatsApp, Evolution API, OpenAI, Agendor CRM, PostgreSQL e APIs REST**
+- Implementação de logs, validações, controle de contexto e tratamento de erros
+- Desenvolvimento de dashboards e ferramentas de apoio à operação
+- Automação de processos comerciais
 
-Desenvolvimento e evolução da Lia, agente de atendimento automatizado em n8n
+### CHTECH Soluções em T.I.
+**Desenvolvimento Full-Stack • Infraestrutura • Suporte**  
+`Set/2025 — Jun/2026`
 
-Criação de workflows para atendimento, coleta e validação de informações
+- Desenvolvimento e manutenção de sites e sistemas web
+- Desenvolvimento Full-Stack e integração de APIs
+- Modelagem, consulta e manutenção de bancos de dados
+- Implantação e manutenção de aplicações
+- Desenvolvimento com **PHP, JavaScript e MySQL**
+- WordPress e WooCommerce
+- Suporte em hardware, software, redes e ambientes Windows/Linux
 
-Integração entre WhatsApp, Evolution API, OpenAI, Agendor CRM, PostgreSQL e APIs REST
+### D'ATRI Confecções
+**Automação de Processos**  
+`Abr/2025 — Ago/2025`
 
-Implementação de logs, validações, controle de contexto e tratamento de erros
+- Desenvolvimento de macros em **VBA**
+- Automação de planilhas e processos internos
+- Criação de rotinas para reduzir tarefas manuais
+- Utilização avançada do Microsoft Excel
 
-Desenvolvimento de dashboards e ferramentas de apoio à operação
+---
 
-Automação de processos comerciais
-
-CHTECH Soluções em T.I.
-
-Desenvolvimento Full-Stack • Infraestrutura • Suporte
-Set/2025 — Jun/2026
-
-Desenvolvimento e manutenção de sites e sistemas web
-
-Desenvolvimento Full-Stack e integração de APIs
-
-Modelagem, consulta e manutenção de bancos de dados
-
-Implantação e manutenção de aplicações
-
-Desenvolvimento com PHP, JavaScript e MySQL
-
-WordPress e WooCommerce
-
-Suporte em hardware, software, redes e ambientes Windows/Linux
-
-D'ATRI Confecções
-
-Automação de Processos
-Abr/2025 — Ago/2025
-
-Desenvolvimento de macros em VBA
-
-Automação de planilhas e processos internos
-
-Criação de rotinas para reduzir tarefas manuais
-
-Utilização avançada do Microsoft Excel
-
-06 — Formação
+## 06 — Formação
 
 <div align="center">
 
-Bacharelado em Engenharia de Computação
+### Bacharelado em Engenharia de Computação
 
-Universidade Tecnológica Federal do Paraná — UTFPR
-2024/2 — 2029/2
+**Universidade Tecnológica Federal do Paraná — UTFPR**  
+`2024/2 — 2029/2`
 
 <img src="https://img.shields.io/badge/UTFPR-ENGENHARIA_DE_COMPUTAÇÃO-000000?style=for-the-badge&logo=academia&logoColor=white" alt="Engenharia de Computação — UTFPR">
 
 </div>
 
-07 — Vamos nos conectar?
+---
+
+## 07 — Vamos nos conectar?
 
 <div align="center">
 
 Tecnologia fica mais interessante quando boas ideias encontram pessoas dispostas a construir.
 
-Se quiser conversar sobre desenvolvimento, automação, IA, integrações ou projetos, estes são os melhores caminhos:
+Se quiser conversar sobre **desenvolvimento, automação, IA, integrações ou projetos**, estes são os melhores caminhos:
 
 <br>
 
