@@ -1,10 +1,4 @@
 <div align="center">
-
-<br>
-
-<img src="./assets/logo-jl-pixel.gif" alt="JL" width="84">
-
-<br>
 <br>
 
 <a href="https://www.linkedin.com/in/jl-profile"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
