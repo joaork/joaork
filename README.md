@@ -1,368 +1,213 @@
 <div align="center">
 
-# 👨‍💻 João Lima
-
-### Engenharia de Computação • Full-Stack • Automação & IA • Integrações
-
-Desenvolvendo soluções que conectam **software, inteligência artificial, automação e hardware**.
-
-<br>
-
-<a href="https://www.linkedin.com/in/jl-profile"><img src="https://img.shields.io/badge/LinkedIn-Joao_Lima-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:joaovictorscr1@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-<a href="https://github.com/joaork"><img src="https://img.shields.io/badge/GitHub-joaork-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<img src="./assets/banner-jl-github.png" alt="Banner João Lima" width="100%" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Engenharia_de_Computacao-UTFPR-FFC107?style=flat-square" alt="UTFPR">
-<img src="https://img.shields.io/badge/Desenvolvimento-Full--Stack-2F81F7?style=flat-square" alt="Full Stack">
-<img src="https://img.shields.io/badge/Automacao_e_IA-n8n_+_OpenAI-8B5CF6?style=flat-square" alt="Automacao e IA">
+<img src="./assets/logo-jl-pixel.gif" alt="Logo JL animada" width="90" />
+
+# João Victor Silva de Lima
+
+### Full-Stack Developer • Automação, IA e Integrações • Engenharia de Computação @ UTFPR
+
+Construo soluções que unem **software, automação, inteligência artificial, integrações e infraestrutura**  
+com foco em aplicações reais, bem pensadas e úteis de verdade.
+
+<br>
+
+<a href="https://github.com/joaork">
+  <img src="https://img.shields.io/badge/GitHub-@joaork-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub">
+</a>
+<a href="https://www.linkedin.com/in/jl-profile">
+  <img src="https://img.shields.io/badge/LinkedIn-João_Lima-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn">
+</a>
+<a href="mailto:joaovictorscr1@gmail.com">
+  <img src="https://img.shields.io/badge/E--mail-Contato-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="E-mail">
+</a>
 
 </div>
 
 ---
 
-## 👋 Sobre mim
+## About me
 
-Graduando em **Engenharia de Computação na UTFPR** e **Desenvolvedor Full-Stack**, com experiência prática no desenvolvimento de aplicações web, automações, integrações entre sistemas e bancos de dados.
+Sou graduando em **Engenharia de Computação na UTFPR** e atuo como **Desenvolvedor Full-Stack**, com experiência prática em aplicações web, automações, integrações entre sistemas, bancos de dados e soluções com IA.
 
-Atuo em projetos reais envolvendo **Inteligência Artificial, automação de processos, APIs REST, WhatsApp, CRM, bancos de dados e implantação de aplicações web**.
+Gosto de construir projetos que vão além do código: soluções que conectam **produto, operação e tecnologia**, transformando processos manuais em fluxos mais inteligentes, organizados e escaláveis.
 
-Também possuo conhecimentos em **hardware, ESP32, Arduino e circuitos digitais**, buscando unir diferentes áreas da computação para desenvolver soluções completas, eficientes e aplicáveis a problemas reais.
+Atualmente, meu foco está em:
 
-### 🎯 Principais áreas de atuação
-
-- 💻 Desenvolvimento **Full-Stack**
-- 🤖 **Automação de processos** e Agentes de IA
-- 🔗 Integração entre sistemas e APIs
-- 🗄️ Bancos de dados relacionais
-- ☁️ Deploy de aplicações e ambientes VPS
-- 🔌 Hardware, Arduino, ESP32 e sistemas embarcados
+- **Desenvolvimento Full-Stack**
+- **Automação de processos**
+- **Integrações e APIs**
+- **Agentes de IA**
+- **Bancos de dados**
+- **Infraestrutura, deploy e suporte técnico**
 
 ---
 
-# 🚀 Projetos em Destaque
+## Tech stack
 
-<table>
-<tr>
+<div align="center">
 
-<td width="50%" valign="top">
+### Front-end
+<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000" />
 
-## 🤖 Lia
+### Back-end
+<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/REST%20APIs-000000?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=000000" />
 
-### Agente de Atendimento com IA
+### Automação & IA
+<img src="https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/Agentes%20de%20IA-000000?style=for-the-badge&logo=githubcopilot&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/Webhooks-000000?style=for-the-badge&logo=webhook&logoColor=white&labelColor=000000" />
 
-Agente automatizado desenvolvido para atendimento comercial e automação de processos utilizando **n8n**.
+### Banco de dados
+<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000" />
 
-Integra diferentes plataformas para realizar atendimento, coleta de informações, validações, gerenciamento de contexto e transferência de clientes.
+### Infraestrutura & Ferramentas
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/VPS-000000?style=for-the-badge&logo=serverfault&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/Deploy-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" />
 
-### Tecnologias
+### Hardware & Embedded
+<img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=arduino&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/VBA-000000?style=for-the-badge&logo=microsoftexcel&logoColor=white&labelColor=000000" />
 
-<p>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n">
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI">
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp">
-</p>
+</div>
 
-### Integrações
+---
 
-`Evolution API` • `Agendor CRM` • `REST APIs` • `Webhooks`
+## Featured projects
 
-### Principais recursos
+### Lia — Agente de Atendimento com IA
+Agente automatizado de atendimento e automação comercial, desenvolvido com **n8n**, integração com **WhatsApp**, **OpenAI**, **Agendor CRM**, **PostgreSQL** e **APIs REST**.
 
+**Destaques do projeto**
 - Atendimento automatizado via WhatsApp
-- Agentes baseados em Inteligência Artificial
-- Controle e persistência de contexto
-- Integração automática com CRM
-- Validação e tratamento de informações
-- Logs e tratamento de erros
-- Automação de processos comerciais
-- Transferência para atendimento humano
+- Coleta e validação de informações
+- Persistência de contexto
+- Integração com CRM
+- Tratamento de erros e logs
+- Transferência estruturada para atendimento humano
 
-</td>
+---
 
-<td width="50%" valign="top">
+### Portal Jonask
+Plataforma web desenvolvida com **React** e **TypeScript**, com múltiplos módulos, ferramentas, conteúdo digital e área premium.
 
-## 🌐 Portal Jonask
+<a href="https://jonask.com.br">
+  <img src="https://img.shields.io/badge/Acessar%20projeto-000000?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=000000" />
+</a>
 
-Portal web desenvolvido com **React e TypeScript**, composto por múltiplos módulos, ferramentas, conteúdo digital, área premium e interfaces responsivas.
+---
 
-### Tecnologias
+### Sequencial
+Projeto web comercial com foco em apresentação de produto, estrutura responsiva e experiência visual moderna.
 
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" alt="JavaScript">
-</p>
+<a href="https://usesequencial.com.br">
+  <img src="https://img.shields.io/badge/Acessar%20projeto-000000?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=000000" />
+</a>
 
-<br>
+---
+
+## GitHub stats
 
 <div align="center">
 
-<a href="https://jonask.com.br"><img src="https://img.shields.io/badge/ACESSAR_PROJETO-jonask.com.br-238636?style=for-the-badge" alt="Acessar Portal Jonask"></a>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=joaork&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&theme=transparent" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaork&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&theme=transparent" />
+
+<br><br>
+
+<img height="170" src="https://streak-stats.demolab.com?user=joaork&theme=black-ice&hide_border=true&background=00000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF" />
 
 </div>
 
-<br>
-
-## 🛍️ Sequencial
-
-Plataforma comercial responsiva desenvolvida utilizando tecnologias modernas para desenvolvimento web.
-
-### Tecnologias
-
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
-</p>
-
-<br>
-
-<div align="center">
-
-<a href="https://usesequencial.com.br"><img src="https://img.shields.io/badge/ACESSAR_PROJETO-usesequencial.com.br-238636?style=for-the-badge" alt="Acessar Sequencial"></a>
-
-</div>
-
-</td>
-
-</tr>
-</table>
-
 ---
 
-# 🧰 Stack & Tecnologias
+## Professional experience
 
-## 🎨 Front-end
-
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-</p>
-
-`React` • `TypeScript` • `JavaScript` • `HTML5` • `CSS3` • `Interfaces Responsivas`
-
----
-
-## ⚙️ Back-end
-
-<p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge" alt="REST API">
-</p>
-
-`Node.js` • `PHP` • `Python` • `REST APIs` • `Integração de Sistemas`
-
----
-
-## 🤖 Automação & Inteligência Artificial
-
-<p>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
-<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API">
-<img src="https://img.shields.io/badge/Agentes_de_IA-6E40C9?style=for-the-badge" alt="Agentes de IA">
-<img src="https://img.shields.io/badge/Webhooks-1F6FEB?style=for-the-badge" alt="Webhooks">
-</p>
-
-`n8n` • `Agentes de IA` • `OpenAI API` • `Automação de Processos` • `Webhooks`
-
----
-
-## 🔗 Integrações
-
-<p>
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-<img src="https://img.shields.io/badge/Evolution_API-111827?style=for-the-badge" alt="Evolution API">
-<img src="https://img.shields.io/badge/Agendor_CRM-2563EB?style=for-the-badge" alt="Agendor CRM">
-<img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge" alt="REST API">
-<img src="https://img.shields.io/badge/Webhooks-1F6FEB?style=for-the-badge" alt="Webhooks">
-</p>
-
-`Evolution API` • `WhatsApp` • `Agendor CRM` • `REST APIs` • `Webhooks`
-
----
-
-## 🗄️ Bancos de Dados
-
-<p>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-</p>
-
-`SQL` • `MySQL` • `PostgreSQL` • `Modelagem de Dados` • `Integração de Dados`
-
----
-
-## ☁️ Infraestrutura & Ferramentas
-
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000" alt="Linux">
-<img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=white" alt="Windows">
-<img src="https://img.shields.io/badge/VPS-111827?style=for-the-badge&logo=linux&logoColor=white" alt="VPS">
-<img src="https://img.shields.io/badge/Deploy-238636?style=for-the-badge" alt="Deploy">
-</p>
-
-`Git` • `GitHub` • `Linux` • `Windows` • `VPS` • `Deploy de Aplicações`
-
----
-
-## 🔌 Hardware & Outros Conhecimentos
-
-<p>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=000000" alt="C">
-<img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32">
-<img src="https://img.shields.io/badge/Hardware-374151?style=for-the-badge" alt="Hardware">
-<img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge" alt="VBA">
-<img src="https://img.shields.io/badge/Excel_Avancado-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel Avançado">
-</p>
-
-`C` • `Arduino` • `ESP32` • `Hardware` • `Circuitos Digitais` • `VBA` • `Excel Avançado`
-
----
-
-# 💼 Experiência Profissional
-
-## 🏢 Uniformizado LTDA
-
-### Desenvolvimento • Automação • Inteligência Artificial
-
+### Uniformizado LTDA
+**Desenvolvimento • Automação • Inteligência Artificial**  
 **Jun/2026 — Atual**
 
-- Desenvolvimento e manutenção de aplicações, integrações e soluções internas
-- Desenvolvimento e evolução de agente automatizado utilizando **n8n**
-- Criação de workflows complexos para atendimento e automação
-- Integração entre **WhatsApp, Evolution API, OpenAI e Agendor CRM**
-- Integração com **PostgreSQL e APIs REST**
-- Implementação de tratamento de erros, logs e validações
-- Controle de contexto em fluxos automatizados
-- Desenvolvimento de dashboards e ferramentas de apoio à operação
-- Automação de processos comerciais
+Atuação no desenvolvimento e evolução de soluções internas com foco em automação, IA e integração entre sistemas.
 
-### Stack utilizada
+**Tecnologias e contextos**
+- n8n
+- OpenAI
+- PostgreSQL
+- WhatsApp
+- Evolution API
+- Agendor CRM
+- APIs REST
+- Webhooks
 
-<p>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n">
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI">
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp">
-<img src="https://img.shields.io/badge/REST_API-005571?style=flat-square" alt="REST API">
-</p>
+---
 
-<br>
-
-## 🖥️ CHTECH Soluções em T.I.
-
-### Desenvolvimento Full-Stack • Infraestrutura • Suporte
-
+### CHTECH Soluções em T.I.
+**Desenvolvimento Full-Stack • Infraestrutura • Suporte**  
 **Set/2025 — Jun/2026**
 
-- Desenvolvimento e manutenção de sites e sistemas web
-- Desenvolvimento Full-Stack
-- Integração de APIs
-- Modelagem e manutenção de bancos de dados
-- Implantação e manutenção de aplicações
-- Desenvolvimento com **PHP, JavaScript e MySQL**
-- WordPress e WooCommerce
-- Suporte em hardware, software, redes, Windows e Linux
+Atuação com desenvolvimento web, manutenção de sistemas, infraestrutura e suporte técnico.
 
-### Stack utilizada
+**Tecnologias e contextos**
+- PHP
+- JavaScript
+- MySQL
+- WordPress
+- WooCommerce
+- Linux
+- Windows
 
-<p>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" alt="JavaScript">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
-<img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress">
-<img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white" alt="WooCommerce">
-</p>
+---
 
-<br>
-
-## 🏭 D'ATRI Confecções
-
-### Automação de Processos
-
+### D’Atri Confecções
+**Automação de Processos**  
 **Abr/2025 — Ago/2025**
 
-- Desenvolvimento de macros em **VBA**
-- Automação de planilhas e processos internos
-- Desenvolvimento de rotinas para redução de tarefas manuais
-- Utilização avançada do Microsoft Excel
-
-### Tecnologias utilizadas
-
-<p>
-<img src="https://img.shields.io/badge/VBA-217346?style=flat-square" alt="VBA">
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel">
-</p>
+Desenvolvimento de macros, automações de planilhas e rotinas internas com **VBA** e **Excel**.
 
 ---
 
-# 🎓 Formação Acadêmica
+## Education
+
+### Engenharia de Computação — UTFPR
+**Universidade Tecnológica Federal do Paraná**  
+**2024 — 2029**
+
+---
+
+## Contact
 
 <div align="center">
 
-### 🎓 Bacharelado em Engenharia de Computação
-
-**Universidade Tecnológica Federal do Paraná — UTFPR**
-
-<img src="https://img.shields.io/badge/UTFPR-Engenharia_de_Computacao-FFC107?style=for-the-badge" alt="Engenharia de Computação UTFPR">
+Se você curte tecnologia, automação, IA ou quer trocar ideia sobre projetos, fico à disposição.
 
 <br><br>
 
-**2024/2 — 2029/2**
-
-</div>
-
----
-
-# 📊 GitHub
-
-<div align="center">
-
-### Meu desenvolvimento também está por aqui
-
-<br>
-
-<a href="https://github.com/joaork?tab=repositories"><img src="https://img.shields.io/badge/VER_REPOSITORIOS-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver Repositórios"></a>
-<a href="https://github.com/joaork"><img src="https://img.shields.io/badge/ACESSAR_PERFIL-joaork-2F81F7?style=for-the-badge&logo=github&logoColor=white" alt="Acessar GitHub"></a>
-
-<br><br>
-
-
-</div>
-
----
-
-# 🌐 Contato
-
-<div align="center">
-
-### Vamos nos conectar?
-
-Projetos, tecnologia, desenvolvimento e oportunidades profissionais.
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/jl-profile"><img src="https://img.shields.io/badge/LinkedIn-PERFIL_PROFISSIONAL-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-
-<br><br>
-
-<a href="mailto:joaovictorscr1@gmail.com"><img src="https://img.shields.io/badge/Gmail-ENTRAR_EM_CONTATO-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-<a href="https://github.com/joaork"><img src="https://img.shields.io/badge/GitHub-VER_REPOSITORIOS-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-
-<br><br><br>
-
----
+<a href="https://www.linkedin.com/in/jl-profile">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
+</a>
+<a href="mailto:joaovictorscr1@gmail.com">
+  <img src="https://img.shields.io/badge/E--mail-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
+</a>
+<a href="https://github.com/joaork">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
+</a>
 
 </div>
