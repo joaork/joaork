@@ -8,7 +8,7 @@
 
 <br>
 
-### Full-Stack Developer • Automação, IA e Integrações • Engenharia de Computação @ UTFPR
+### Full-Stack Developer • Automação, IA e Integrações • Engenharia de Computação UTFPR
 
 Construo soluções que conectam **software, automação, inteligência artificial e sistemas** para resolver problemas reais.
 
